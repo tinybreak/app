@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "72561576931",
+    "firebase_url": "https://shortbreak-70c69.firebaseio.com",
+    "project_id": "shortbreak-70c69",
+    "storage_bucket": "shortbreak-70c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72561576931:android:2f1039b1f0583d44",
+        "android_client_info": {
+          "package_name": "com.annevo.tinybreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72561576931-u0ie6chhlni4job2heo0n386cs1k4o69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZAjgis3m8UlVA-ckdHDyASxxLOwyhT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
