@@ -1843,7 +1843,7 @@ inquirer@^0.12.0:
     strip-ansi "^3.0.0"
     through "^2.3.6"
 
-invariant@^2.2.0, invariant@^2.2.2:
+invariant@^2.2.0:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/invariant/-/invariant-2.2.2.tgz#9e1f56ac0acdb6bf303306f338be3b204ae60360"
   dependencies:
@@ -3050,29 +3050,12 @@ react-devtools-core@^2.0.8:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-fcm@^6.2.3:
-  version "6.2.3"
-  resolved "https://registry.yarnpkg.com/react-native-fcm/-/react-native-fcm-6.2.3.tgz#676a6b91ac363e29eb7fd3e7c44b7df0177e6fb7"
-
-react-native-firebase-analytics@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-firebase-analytics/-/react-native-firebase-analytics-3.0.0.tgz#5f481e22d98a8fcea18fb33114d43d67829d1b71"
-
-react-native-firebase-auth@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-firebase-auth/-/react-native-firebase-auth-1.0.0.tgz#eaf00676eb415ca53f3ac58e6b1f3b089f0134d7"
-
-react-native-firestack@^2.3.9:
-  version "2.3.9"
-  resolved "https://registry.yarnpkg.com/react-native-firestack/-/react-native-firestack-2.3.9.tgz#9654abe4a3e4c81a1977cc43d0d8d99322ad10f1"
+react-native-firebase@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-firebase/-/react-native-firebase-1.1.0.tgz#76541cc800669e2fbb1c5cfd35a1569a2a3f4bb8"
   dependencies:
     bows "^1.6.0"
     es6-symbol "^3.1.0"
-    invariant "^2.2.2"
-
-react-native-google-sign-in@^0.0.14:
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/react-native-google-sign-in/-/react-native-google-sign-in-0.0.14.tgz#1d8100553832bd30aa02bfa1aaf259429be13169"
 
 react-native@^0.44.0:
   version "0.44.2"
